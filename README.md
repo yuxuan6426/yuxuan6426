@@ -31,10 +31,10 @@
 
 ## 更多探索 · More work
 
-- **[安徽农户持续种粮调研](https://github.com/yuxuan6426/anhui-rural-survey)**：青穗江淮调研团的公开报告、聚合数据、调查工具与可复现 Notebook。[在线报告](https://yuxuan6426.github.io/anhui-rural-survey/report/)
-- **[南行 · AI 辅助学习评价](https://github.com/yuxuan6426/nanxing-aiv)**：围绕学习过程证据、指标不确定性与教学行动开展分析；保留论文、Notebook 和工作台材料。*已归档。*
+- **[安徽农户持续种粮调研](https://github.com/yuxuan6426/anhui-rural-survey)**：青穗江淮调研团的公开报告、聚合数据、调查工具与可复现 Notebook。[研究文库](https://yuxuan6426.github.io/anhui-rural-survey/) · [在线报告](https://yuxuan6426.github.io/anhui-rural-survey/report/) · [在线 Notebook](https://yuxuan6426.github.io/anhui-rural-survey/notebook/)
+- **[南行 · AI 辅助学习评价](https://github.com/yuxuan6426/nanxing-aiv)**：围绕学习过程证据、指标不确定性与教学行动开展分析；保留论文、Notebook 和工作台材料。*已归档。* [在线工作台](https://math.hnnu.team/)
 - **[链上第一步](https://github.com/yuxuan6426/blockchain-first-step)**：用本地 EVM 串联摘要、合约、交易回执与回读验证的中文入门原型。
-- **[ClueTide 调查与证据](https://github.com/yuxuan6426/cluetide-review)**：同系列的 Ethereum 事件调查、证据包与版本复核材料。
+- **[ClueTide 调查与证据](https://github.com/yuxuan6426/cluetide-review)**：同系列的 Ethereum 事件调查、证据包与版本复核材料。[GCC 在线演示](https://yuxuan6426.github.io/cluetide-app/gcc/) · [BOT 在线演示](https://yuxuan6426.github.io/cluetide-app/bot/)
 
 ## 常用工具 · Toolkit
 
