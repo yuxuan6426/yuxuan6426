@@ -15,7 +15,7 @@
 | **[普通物理实验](https://github.com/yuxuan6426/general-physics-lab)** | 整理四门课程的 45 个实验，结合实验报告、Python / Wolfram 计算笔记本与交互仿真。 | [在线阅读](https://yuxuan6426.github.io/general-physics-lab/) · [虚拟实验](https://yuxuan6426.github.io/general-physics-lab/simulations/) |
 | **[杨氏双缝干涉仿真](https://github.com/yuxuan6426/phy-sim-llm)** | 面向大学物理课堂的单文件交互仿真，观察干涉条纹、衍射包络与光强曲线；附论文复现材料。 | [打开仿真](https://yslit.yuxuan.wiki/) |
 | **[劳育备课工坊](https://github.com/yuxuan6426/labor-edu-forge)** | 结合 Qwen 辅助备课、斜面 / 杠杆 / 滑轮动画与可编辑 Word 材料导出。 | [使用与下载](https://github.com/yuxuan6426/labor-edu-forge#开始使用) |
-| **[热鉴 · Thermal PDE Audit](https://github.com/yuxuan6426/thermal-pde-audit)** | 将自然语言热传导问题组织为量子线路仿真实验，结合经典基线、CPU / GPU 对照与物理审计。 | [实验流程与证据](https://github.com/yuxuan6426/thermal-pde-audit#已验证成果) |
+| **[热鉴 · Thermal PDE Audit](https://github.com/yuxuan6426/thermal-pde-audit)** | 将自然语言热传导问题组织为量子线路仿真实验，结合经典基线、CPU / GPU 对照与物理审计。 | [项目主页（书生·端砚）](https://discovery.intern-ai.org.cn/scp/skill/456) · [实验流程与证据](https://github.com/yuxuan6426/thermal-pde-audit#已验证成果) |
 | **[ClueTide](https://github.com/yuxuan6426/cluetide-botchain)** | 围绕 Agent 交付物组织指定版本复核、批准、发布与回执验证，并在 BOT Chain 记录版本承诺。 | [在线应用](https://cluetide.vercel.app/) · [源码与说明](https://github.com/yuxuan6426/cluetide-botchain) |
 | **[寿州窑文物数字展台](https://github.com/yuxuan6426/shouzhou-kiln-interactive)** | 收录 78 件文物，支持器物图像浏览、档案扫描页对照与中英文介绍。 | [进入展台](https://shouzhou-kiln-interactive.yuxuan.wiki/) |
 
