@@ -1,47 +1,45 @@
 # 缪雨轩 · Yuxuan Miao
 
-**把物理问题变成可交互、可复核的工具。**
+> 这是我的 GitHub 主账号。自 2026 年 11 月 21 日起，我在这里创建所有新仓库。早期项目和贡献记录可在我的另一个账号 [HNNUYUXUAN](https://github.com/HNNUYUXUAN) 查看。
+>
+> This is my main GitHub account. I create all new repositories here as of November 21, 2026. Earlier projects and contributions are available on my other account, [HNNUYUXUAN](https://github.com/HNNUYUXUAN).
 
-我是淮南师范学院物理学（师范）本科生，关注物理教育、科学计算与 AI 应用。这里整理我的公开项目与合作研究：从课堂仿真、实验数据处理，到科学计算审计、Agent 协作与数字文化展示。
+[简体中文](#简体中文) · [English](#english)
 
-*Physics undergraduate at Huainan Normal University, exploring physics education, scientific computing and AI applications through interactive tools and reproducible research.*
+## 简体中文
 
-[个人网站](https://www.yuxuan.wiki/) · [关于我](https://www.yuxuan.wiki/introduce) · [ORCID](https://orcid.org/0009-0007-3369-452X) · [Gitee](https://gitee.com/hnnuxuan)
+我是缪雨轩，现就读于淮南师范学院物理学（师范）专业。我做科学计算、工程自动化和物理教学工具，并为项目提供可复核的实验或测试材料。
 
-## 代表项目 · Selected projects
+[个人网站](https://www.yuxuan.wiki/) · [交付案例总览](https://www.yuxuan.wiki/introduce) · [ORCID](https://orcid.org/0009-0007-3369-452X) · [Gitee](https://gitee.com/hnnuxuan)
 
-| 项目 | 做什么 | 从这里开始 |
-| :--- | :--- | :--- |
-| **[普通物理实验](https://github.com/yuxuan6426/general-physics-lab)** | 整理四门课程的 45 个实验，结合实验报告、Python / Wolfram 计算笔记本与交互仿真。 | [在线阅读](https://yuxuan6426.github.io/general-physics-lab/) · [虚拟实验](https://yuxuan6426.github.io/general-physics-lab/simulations/) |
-| **[杨氏双缝干涉仿真](https://github.com/yuxuan6426/phy-sim-llm)** | 面向大学物理课堂的单文件交互仿真，观察干涉条纹、衍射包络与光强曲线；附论文复现材料。 | [打开仿真](https://yslit.yuxuan.wiki/) |
-| **[劳育备课工坊](https://github.com/yuxuan6426/labor-edu-forge)** | 结合 Qwen 辅助备课、斜面 / 杠杆 / 滑轮动画与可编辑 Word 材料导出。 | [使用与下载](https://github.com/yuxuan6426/labor-edu-forge#开始使用) |
-| **[热鉴 · Thermal PDE Audit](https://github.com/yuxuan6426/thermal-pde-audit)** | 将自然语言热传导问题组织为量子线路仿真实验，结合经典基线、CPU / GPU 对照与物理审计。 | [项目主页（书生·端砚）](https://discovery.intern-ai.org.cn/scp/skill/456) · [实验流程与证据](https://github.com/yuxuan6426/thermal-pde-audit#已验证成果) · [English README](https://github.com/yuxuan6426/thermal-pde-audit/blob/main/README.en.md) |
-| **[ClueTide](https://github.com/yuxuan6426/cluetide-botchain)** | 围绕 Agent 交付物组织指定版本复核、批准、发布与回执验证，并在 BOT Chain 记录版本承诺。 | [在线应用](https://cluetide.vercel.app/) · [源码与说明](https://github.com/yuxuan6426/cluetide-botchain) · [English README](https://github.com/yuxuan6426/cluetide-botchain/blob/main/README.md) |
-| **[寿州窑文物数字展台](https://github.com/yuxuan6426/shouzhou-kiln-interactive)** | 收录 78 件文物，支持器物图像浏览、档案扫描页对照与中英文介绍。 | [进入展台](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [English README](https://github.com/yuxuan6426/shouzhou-kiln-interactive/blob/main/README.en.md) |
+### 精选项目
 
-## 研究与论文 · Publications
+- **Ansys PyAEDT-MCP** · 为 AEDT Student 版补充启动、连接及服务启动时自动连接支持，并提供文档和回归测试。改动于 2026 年 11 月 20 日随上游 PR #176 合入。 [原始贡献](https://github.com/ansys/pyaedt-mcp/pull/155) · [上游合并](https://github.com/ansys/pyaedt-mcp/pull/176)
+- **热鉴 · Thermal PDE Audit** · 用解析解和有限差分基线核验一维热传导量子线路仿真，提供 CPU 和壁仞 GPU 实验及可复核报告。 [项目仓库](https://github.com/yuxuan6426/thermal-pde-audit)
+- **EdgeInfer-Optimizer** · 主导混合精度端侧推理系统的架构与实现，交付可运行原型并完成性能实测。项目获安徽省级一等奖。 [交付案例](https://www.yuxuan.wiki/introduce#case-edgeinfer)
+- **ClueTide** · 将发布审批绑定到交付物的指定版本和清单，支持独立核验发布回执与文件完整性。 [v0.2.0 发布记录](https://github.com/yuxuan6426/cluetide-botchain/releases/tag/v0.2.0)
+- **普通物理实验** · 汇集四门课程的 45 个实验，配套实验报告、Python 和 Wolfram 计算笔记本及虚拟实验。 [项目仓库](https://github.com/yuxuan6426/general-physics-lab) · [虚拟实验](https://yuxuan6426.github.io/general-physics-lab/simulations/)
 
-- **第一作者**：[基于LLM的大学物理可视化仿真平台开发](http://wltb.ijournal.cn/ch/reader/view_abstract.aspx?file_no=20252039&flag=1)  
-  缪雨轩、张颖、邸文奇、丁婉梦、杨程祥．《物理通报》，2026，45(8)：31–41。  
-  以杨氏双缝干涉为案例，探索人机协同的物理教学资源开发；[相关代码与复现材料](https://github.com/yuxuan6426/phy-sim-llm)。
+### 论文
 
-- **第二作者**：[Critical Behavior in Ga-doped van der Waals Magnet CrI3](https://doi.org/10.1007/s13538-026-02150-3)  
-  Ying Zhang, **Yuxuan Miao**, Wenqi Gu, Ke Zhang & Ping Liu. *Brazilian Journal of Physics* **56**, 236 (2026).  
-  参与数据解释相关讨论，并与全体作者共同审阅稿件。
+- **第一作者** · [基于LLM的大学物理可视化仿真平台开发](http://wltb.ijournal.cn/ch/reader/view_abstract.aspx?file_no=20252039&flag=1)。《物理通报》，45(8)，31–41（2026）。 [杨氏双缝仿真与复现材料](https://github.com/yuxuan6426/phy-sim-llm)
+- **第二作者** · [Critical Behavior in Ga-doped van der Waals Magnet CrI₃](https://link.springer.com/article/10.1007/s13538-026-02150-3)。*Brazilian Journal of Physics*，56，236（2026）。参与数据解释讨论和稿件审阅。
 
-## 更多探索 · More work
+## English
 
-- **[安徽农户持续种粮调研](https://github.com/yuxuan6426/anhui-rural-survey)**：青穗江淮调研团的公开报告、聚合数据、调查工具与可复现 Notebook。[研究文库](https://yuxuan6426.github.io/anhui-rural-survey/) · [在线报告](https://yuxuan6426.github.io/anhui-rural-survey/report/) · [在线 Notebook](https://yuxuan6426.github.io/anhui-rural-survey/notebook/) · [English README](https://github.com/yuxuan6426/anhui-rural-survey/blob/main/README.en.md)
-- **[南行 · AI 辅助学习评价](https://github.com/yuxuan6426/nanxing-aiv)**：围绕学习过程证据、指标不确定性与教学行动开展分析；保留论文、Notebook 和工作台材料。*已归档。* [在线工作台](https://math.hnnu.team/) · [English README](https://github.com/yuxuan6426/nanxing-aiv/blob/codex/final-delivery/README.en.md)
-- **[链上第一步](https://github.com/yuxuan6426/blockchain-first-step)**：用本地 EVM 串联摘要、合约、交易回执与回读验证的中文入门原型。
-- **物理刷题练习（Drill 系列）**：力学 / 光学 / 电磁学 / 综合物理的交互刷题站。[PhysDrill](https://physdrill.yuxuan.wiki/) · [OpticsDrill](https://yuxuan6426.github.io/OpticsDrill/) · [MechanicsDrill](https://yuxuan6426.github.io/MechanicsDrill/) · [ElectromagnetismDrill](https://github.com/yuxuan6426/ElectromagnetismDrill)
+I’m Yuxuan Miao, a physics education undergraduate at Huainan Normal University. I build tools for scientific computing, engineering automation, and physics teaching, with experiments or tests readers can reproduce.
 
-## 常用工具 · Toolkit
+[Personal website](https://www.yuxuan.wiki/) · [Project portfolio](https://www.yuxuan.wiki/introduce) · [ORCID](https://orcid.org/0009-0007-3369-452X) · [Gitee](https://gitee.com/hnnuxuan)
 
-**计算与分析**：Python · Jupyter · Wolfram  
-**交互应用**：TypeScript / JavaScript · React · Vue · Node.js  
-**工程与交付**：LLM API · Git · 自动化测试 · 技术文档
+### Selected projects
 
----
+- **Ansys PyAEDT-MCP** · Contributed support for launching and connecting to AEDT Student Edition, including automatic connection at server startup, with documentation and regression tests. The change was merged upstream in PR #176 on November 20, 2026. [Original contribution](https://github.com/ansys/pyaedt-mcp/pull/155) · [Upstream merge](https://github.com/ansys/pyaedt-mcp/pull/176)
+- **Thermal PDE Audit** · Checks quantum circuit simulations of one-dimensional heat conduction against analytical and finite-difference baselines, with CPU and Biren GPU experiments and reports for review. [Repository](https://github.com/yuxuan6426/thermal-pde-audit)
+- **EdgeInfer-Optimizer** · Led the architecture and implementation of a mixed-precision edge inference system, delivered a working prototype, and benchmarked its performance. The project won first prize at the Anhui provincial level. [Case study](https://www.yuxuan.wiki/introduce#case-edgeinfer)
+- **ClueTide** · Binds release approval to a specific deliverable version and manifest, and supports independent verification of release receipts and file integrity. [v0.2.0 release](https://github.com/yuxuan6426/cluetide-botchain/releases/tag/v0.2.0)
+- **General Physics Lab** · Collects 45 experiments across four courses, with lab reports, Python and Wolfram notebooks, and virtual labs. [Repository](https://github.com/yuxuan6426/general-physics-lab) · [Virtual labs](https://yuxuan6426.github.io/general-physics-lab/simulations/)
 
-欢迎围绕物理教育、科学计算和 AI 应用交流；项目问题可在对应仓库提交 Issue。
+### Publications
+
+- **First author** · [Development of an LLM-Based Visualization and Simulation Platform for University Physics](http://wltb.ijournal.cn/ch/reader/view_abstract.aspx?file_no=20252039&flag=1) (title translated from Chinese). *Physics Bulletin*, 45(8), 31–41 (2026). [Young’s double-slit simulation and reproduction materials](https://github.com/yuxuan6426/phy-sim-llm)
+- **Second author** · [Critical Behavior in Ga-doped van der Waals Magnet CrI₃](https://link.springer.com/article/10.1007/s13538-026-02150-3). *Brazilian Journal of Physics*, 56, 236 (2026). Contributed to discussions on data interpretation and reviewed the manuscript.
