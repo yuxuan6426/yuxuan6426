@@ -4,7 +4,7 @@
 >
 > This is my main GitHub account. I create all new repositories here as of November 21, 2026. Earlier projects and contributions are available on my other account, [HNNUYUXUAN](https://github.com/HNNUYUXUAN).
 
-[简体中文](#简体中文) · [English](#english)
+[简体中文](#user-content-简体中文) · [English](#user-content-english)
 
 ## 简体中文
 
